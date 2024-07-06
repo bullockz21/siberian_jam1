@@ -1,0 +1,12 @@
+Library
+Whinarn.UnityMeshSimplifier.Editor.csproj
+Whinarn.UnityMeshSimplifier.Runtime.csproj
+Logs
+obj
+Temp
+UserSettings
+.vsconfig
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+MountainGame.sln
+.vs
